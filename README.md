@@ -6,6 +6,7 @@ Part 2: Assessment Scope
 
 The scope of this assessment is outlined as follows:
 
+- Fork this repository with your own github account.
 - E-commerce Marketplace PWA: Develop a simple Progressive Web Application with the essential functions of an e-commerce platform.
 - Timeframe: 7 days for assessment completion. Completing the assessment sooner is a plus.
 
@@ -44,6 +45,6 @@ Your output will be assessed based on the following criteria:
 - Creativity: Did you incorporate any innovative features or add unique value to the output?
 - Problem-Solving: How effectively did you address and resolve issues that arose during development?
 
-Note: Using pre-made templates is not allowed and will result in disqualification.
+Note: Using pre-made templates is not allowed and will result in disqualification. So is copying other PRs on this repo.
 
 PR to this repo when you're done. Thank you for taking the time to do this assessment. 
