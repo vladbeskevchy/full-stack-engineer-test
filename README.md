@@ -30,7 +30,7 @@ Part 5: Integration and Testing
 
 Integration and testing requirements include:
 
-- Test Data: Use the Fake Store API for initial data and test cases. Fake Store API
+- Test Data: Use the Fake Store API for initial data and test cases. Fake Store API https://fakestoreapi.com/
 - Stripe Integration (Bonus): Integrate with Stripe to simulate payment processing.
 
 Part 6: Evaluation Criteria
