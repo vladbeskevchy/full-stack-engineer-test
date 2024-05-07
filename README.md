@@ -45,3 +45,5 @@ Your output will be assessed based on the following criteria:
 - Problem-Solving: How effectively did you address and resolve issues that arose during development?
 
 Note: Using pre-made templates is not allowed and will result in disqualification.
+
+PR to this repo when you're done. Thank you for taking the time to do this assessment. 
